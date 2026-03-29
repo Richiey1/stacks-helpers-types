@@ -1,0 +1,17 @@
+{
+  "name": "@stacks-helpers/types",
+  "version": "1.0.0",
+  "description": "Type definitions, constants, and network configs for Stacks L2 development",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@stacks/network": "^7.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
