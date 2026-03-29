@@ -18,5 +18,23 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "keywords": [
+    "stacks",
+    "bitcoin",
+    "l2",
+    "blockchain",
+    "types"
+  ],
+  "author": "Richiey1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Richiey1/stacks-helpers-types",
+    "directory": "packages/types"
+  },
+  "bugs": {
+    "url": "https://github.com/Richiey1/stacks-helpers-types/issues"
+  },
+  "homepage": "https://github.com/Richiey1/stacks-helpers-types#readme"
 }
